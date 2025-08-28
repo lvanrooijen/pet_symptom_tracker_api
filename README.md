@@ -1,6 +1,7 @@
-![pientje](https://github.com/user-attachments/assets/b60fddb0-63b9-4714-858f-5a2c6ecb0514)
+<img width="63" height="52" alt="pientje" src="https://github.com/user-attachments/assets/5f1243f4-a2ac-4405-81f1-bc93019c7527" />
 
 # Pet symptom Tracker Api
+
 
 ## Project Overview
 
