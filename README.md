@@ -1,7 +1,6 @@
-<img width="63" height="52" alt="pientje" src="https://github.com/user-attachments/assets/5f1243f4-a2ac-4405-81f1-bc93019c7527" />
-
 # Pet symptom Tracker Api
 
+<img width="63" height="52" alt="pientje" src="https://github.com/user-attachments/assets/5f1243f4-a2ac-4405-81f1-bc93019c7527" />
 
 ## Project Overview
 
